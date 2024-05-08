@@ -1,11 +1,11 @@
-.journal_item {
+.journal-item {
   border-radius: 3px;
-  background: rgba(255, 255, 255, 0.03);
+  background: rgba(176, 159, 159, 0.03);
   color: white;
   padding: 20px;
 }
 
-.journal_item__header {
+.journal-item__header {
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
